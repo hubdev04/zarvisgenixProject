@@ -26,11 +26,8 @@ To use or test this project, follow these simple steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/hubdev04/zarvisgenixProject.git 
-and use index.html
-
 2. **Visit following website**
    ```bash
    https://hubdev04.github.io/zarvisgenixProject/
-
 
 
