@@ -27,7 +27,8 @@ To use or test this project, follow these simple steps:
    ```bash
    git clone https://github.com/hubdev04/zarvisgenixProject.git 
 2. **Visit following website**
-   ```bash
-   https://hubdev04.github.io/zarvisgenixProject/
+   [Link Text](https://hubdev04.github.io/zarvisgenixProject/)
+
+   
 
 
